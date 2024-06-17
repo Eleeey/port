@@ -63,7 +63,7 @@ const Hero = () => {
           </a>
         </div>
       </div>
-      <div className=" flex flex-row gap-3 z-50 absolute inset-y-0   ">
+      <div className=" flex flex-row gap-3 z-50 absolute py-5 gap-2   ">
         {Links.map((link) => (
           <Link href={link.link}>
             <Image src={link.logo} alt={link.logo} height={24} width={24} />
