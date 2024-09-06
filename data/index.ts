@@ -123,7 +123,7 @@ export const projects = [
 
   {
     id: 3,
-    title: "AI Image Editor",
+    title: "Imaginify",
     des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
     img: "/p3.svg",
     iconLists: [
@@ -135,7 +135,7 @@ export const projects = [
       "/MongoDb.svg",
       "/c.svg",
     ],
-    link: "/ui.aiimg.com",
+    link: "https://imaginify-cloud.vercel.app",
   },
 
   {
@@ -174,7 +174,7 @@ export const workExperience = [
   },
   {
     id: 4,
-    title: "Lead Frontend Developer",
+    title: "Frontend Developer",
     desc: "Developed and maintained user-facing features using modern frontend technologies.",
     className: "md:col-span-2",
     thumbnail: "/exp4.svg",
